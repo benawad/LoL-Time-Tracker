@@ -3,7 +3,7 @@ from twilio.rest import TwilioRestClient
 from datetime import date
 import time
 
-account_sid = "ACe55c9f31f8281a9005adf51931c1998a"
+account_sid = ""
 auth_token = ''
 client = TwilioRestClient(account_sid, auth_token)
 lol_api_key = ''
